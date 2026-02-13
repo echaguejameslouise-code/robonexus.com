@@ -1,0 +1,8 @@
+{
+  "name": "RoboNexus - Future of Industrial & Educational Robotics",
+  "description": "A high-end e-commerce platform specializing in Construction, Agriculture, and Arduino-based robotics, featuring an AI-powered robotics consultant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
